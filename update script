@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# sudo apt-get update && sudo apt-get upgrade && flatpak update && snap refresh && sudo apt-get autoremove && sudo apt-get autoclean
+sudo apt-get update && 
+sudo apt-get upgrade && 
+flatpak update && 
+snap refresh && 
+sudo apt-get autoremove && 
+sudo apt-get autoclean
